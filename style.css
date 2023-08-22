@@ -118,7 +118,7 @@ ul{
     
     margin: auto;
     
-    background: url("https://muhammadhammad-47.github.io/MicrosoftReplica2023/images/mainCover.jpg")
+    background: url("/MicrosoftReplica2023/images/mainCover.jpg")
     no-repeat center center/cover;
 
     display: flex;
@@ -189,7 +189,7 @@ ul{
 
     margin: auto;
 
-    background: url("/images/ios-android-cover.jpg") 
+    background: url("/MicrosoftReplica2023/images/ios-android-cover.jpg") 
     no-repeat center center/cover;
 
     display: flex;
